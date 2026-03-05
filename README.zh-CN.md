@@ -138,12 +138,12 @@ deploy/                        # 部署模板与文档
 
 ## 📚 文档导航
 
-- 后端总览：`doc/backend.zh-cn.md`
-- API 文档：`doc/API.zh-cn.md`
-- 数据库设计：`doc/DATABASE.zh-cn.md`
-- 消息机制：`doc/MESSAGE.zh-cn.md`
-- Agent Runtime 文档：`doc/agent_runtime.zh-cn.md`
-- ECS 部署指南：`doc/DEPLOY_ECS.zh-cn.md`
+- [后端总览](doc/backend.zh-cn.md)
+- [API 文档](doc/API.zh-cn.md)
+- [数据库设计](doc/DATABASE.zh-cn.md)
+- [消息机制](doc/MESSAGE.zh-cn.md)
+- [Agent Runtime 文档](doc/agent_runtime.zh-cn.md)
+- [ECS 部署指南](doc/DEPLOY_ECS.zh-cn.md)
 
 ---
 
